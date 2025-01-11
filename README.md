@@ -12,15 +12,6 @@ This project is a Python script that scrapes football match predictions from the
 - Reads yesterday's predictions and indicates if they won or lost.
 - Provides predictions for today's matches.
 
-## Requirements
-
-- Python 3.x
-- Google Chrome
-- Selenium 4.16.0
-- BeautifulSoup4 4.12.3
-- Colorama 0.4.6
-- Pandas 2.2.0
-
 ## Installation
 
 1. Clone the repository:
