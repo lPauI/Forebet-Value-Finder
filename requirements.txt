@@ -1,0 +1,4 @@
+selenium==4.16.0
+beautifulsoup4==4.12.3
+colorama==0.4.6
+pandas==2.2.0
